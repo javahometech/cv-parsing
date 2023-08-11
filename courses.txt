@@ -7,4 +7,5 @@ Jenkins Training
 ArgoCD Training
 logic to send email
 python code to send welcome sms to my student
+We will send whatsapp message
 Sending email when new enqurey is received

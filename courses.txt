@@ -8,3 +8,5 @@ ArgoCD Training
 logic to send email
 python code to send welcome sms to my student
 We will send whatsapp message
+.Net training
+Data Science Training
